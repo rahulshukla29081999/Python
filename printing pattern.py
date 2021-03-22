@@ -12,5 +12,3 @@
 #     for i in range(4):
 #         print("#",end=" ")
 #     print()
-for i in range(40):
-    for j in range(i+)
